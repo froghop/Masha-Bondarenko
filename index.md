@@ -13,6 +13,12 @@ My recent experience has given me skills in the research process, software devel
 [`Analyzing the Viability of Oncolytic Viruses for Treating Cancer`](https://drive.google.com/file/d/1vdvKwhtjsrpzdg94_CK4Hm9Etubb0wIc/view?usp=sharing)
 
 ## Projects
+<details><summary>`Gitlet`</summary>
+  <p>
+    Gitlet an implementation of Git, a version control system, that I designed from scratch as a part of a course project for CS 61B (Data Structures).
+  </p>
+</details>
+  
 `Gitlet`
 
 [`CNN Breast Density Classification`](https://github.com/froghop/2DBreastDensityConvNet)
@@ -23,8 +29,8 @@ My recent experience has given me skills in the research process, software devel
 
 
 
-
-## Links
+## Find Me
 [`LinkedIn`](https://www.linkedin.com/in/mashabondarenko/)  
 [`GitHub`](https://github.com/froghop)  
-[`Website`]() 
+[`Website`](https://froghop.github.io) 
+`Email`: mbondarenko AT berkeley DOT edu

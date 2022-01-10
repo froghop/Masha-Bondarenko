@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Masha Bondarenko
 
-You can use the [editor on GitHub](https://github.com/froghop/froghop.github.io-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
+Hello! I'm currently a second year Electrical Engineering & Computer Science student at UC Berkeley, and I'm hoping to minor in bioengineering. My biggest motivator is making an inpact on human health, and I want to do so through engineering. 
 
-### Markdown
+My recent experience has given me skills in the research process, software development, machine learning, and data analysis. Feel free to explore my work and reach out to me.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Research
+`Elements of Success in NIH Grant Proposals`
 
-# Header 1
-## Header 2
-### Header 3
+`Analyzing the Viability of Oncolytic Viruses for Treating Cancer`
 
-- Bulleted
-- List
+## Projects
+`Gitlet`
 
-1. Numbered
-2. List
+`CNN Breast Density Classification`
 
-**Bold** and _Italic_ and `Code` text
+`Australia Weather Prediction Forecast`
 
-[Link](url) and ![Image](src)
-```
+`Housing Price Predictor`
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/froghop/froghop.github.io-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Coursework

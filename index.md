@@ -13,7 +13,7 @@ My recent experience has given me skills in the research process, software devel
 [`Analyzing the Viability of Oncolytic Viruses for Treating Cancer`](https://drive.google.com/file/d/1vdvKwhtjsrpzdg94_CK4Hm9Etubb0wIc/view?usp=sharing)
 
 ## Projects
-`Gitlet`
+`Gitlet` (a version control software)
 
 [`CNN Breast Density Classification`](https://github.com/froghop/2DBreastDensityConvNet)
 

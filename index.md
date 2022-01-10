@@ -33,4 +33,4 @@ My recent experience has given me skills in the research process, software devel
 [`LinkedIn`](https://www.linkedin.com/in/mashabondarenko/)  
 [`GitHub`](https://github.com/froghop)  
 [`Website`](https://froghop.github.io) 
-`Email`: mbondarenko AT berkeley DOT edu
+`Email`: mbondarenko AT berkeley DOT edu  

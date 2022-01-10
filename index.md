@@ -25,6 +25,6 @@ My recent experience has given me skills in the research process, software devel
 
 
 ### Links
-[`LinkedIn`](https://www.linkedin.com/in/mashabondarenko/) `//`
-[`GitHub`](https://github.com/froghop) `//`
-[`Website`]() `//`
+[`LinkedIn`](https://www.linkedin.com/in/mashabondarenko/)  
+[`GitHub`](https://github.com/froghop)  
+[`Website`]() 

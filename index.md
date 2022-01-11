@@ -1,6 +1,3 @@
-# Masha Bondarenko
-
-
 ## About
 Hello! I'm currently a second year Electrical Engineering & Computer Science student at UC Berkeley, and I'm hoping to minor in bioengineering. My biggest motivator is making an inpact on human health, and I want to do so through engineering. 
 

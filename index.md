@@ -21,19 +21,19 @@ My recent experience has given me skills in the research process, software devel
 `SIXT33N` (voice controlled robotic car)
 
 ## Volunteering
-`Association of Women in EE&CS: Mentor`
+`Association of Women in EE&CS` Mentor
 
-`Society of Women Engineers: Overnight Host Program Volunteer`
+`Society of Women Engineers` Overnight Host Program Volunteer
 
-`American Red Cross: Blood Donor Ambassador, Research & Data Entry Volunteer , VP @ DHS chapter`
+`American Red Cross` Blood Donor Ambassador, Research & Data Entry Volunteer , VP @ DHS chapter
 
-`Open Heart Kitchen: Kitchen staff & server`
+`Open Heart Kitchen` Kitchen staff & server
 
 
 ## Miscellaneous
-`Academic Intern for CS 61A: The structure & interpreation of computer programs`
+`Academic Intern for CS 61A` (The structure & interpreation of computer programs)
 
-`Guest Speaker: stemefemme (Bay Area Engineering & Medicine for High School Students)`
+`Guest Speaker` stemefemme (Bay Area Engineering & Medicine for High School Students)
 
 ## Find Me
 [`LinkedIn`](https://www.linkedin.com/in/mashabondarenko/)  

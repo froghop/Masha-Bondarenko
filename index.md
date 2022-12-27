@@ -17,7 +17,7 @@ My recent experience has given me skills in the research process, software devel
 
 ## Projects
 
-####*Computer Science focused*
+#### *Computer Science focused*
 `Gitlet` (a version control software)
 
 `Classify` (a Machine Learning image classification program written in RISC-V assembly)
@@ -34,7 +34,7 @@ My recent experience has given me skills in the research process, software devel
 
 `ci2 Internship Hackathon Project`
 
-####*Electrical Engineering focused*
+#### *Electrical Engineering focused*
 `SIXT33N` (voice controlled robotic car)
 
 `CPU` (a single-cycle processor built in Logism)

@@ -10,11 +10,9 @@ My recent experience has given me skills in the research process, software devel
 
 `Undergraduate Researcher at UCSF Department of Radiology` *current role* 
 
-[`Elements of Success in NIH Grant Proposals`](http://discourseconventions.weebly.com/uploads/8/5/7/3/85737014/bondarenko_masha_validating_a_resource_for_the_specific_aims_section_in_nih_grant_proposals.pdf)
+[`Elements of Success in NIH Grant Proposals`](http://discourseconventions.weebly.com/uploads/8/5/7/3/85737014/bondarenko_masha_validating_a_resource_for_the_specific_aims_section_in_nih_grant_proposals.pdf) *linked*
 
-`[testtest]`(http://discourseconventions.weebly.com/uploads/8/5/7/3/85737014/bondarenko_masha_validating_a_resource_for_the_specific_aims_section_in_nih_grant_proposals.pdf)
-
-[`Analyzing the Viability of Oncolytic Viruses for Treating Cancer`](https://drive.google.com/file/d/1vdvKwhtjsrpzdg94_CK4Hm9Etubb0wIc/view?usp=sharing)
+[`Analyzing the Viability of Oncolytic Viruses for Treating Cancer`](https://drive.google.com/file/d/1vdvKwhtjsrpzdg94_CK4Hm9Etubb0wIc/view?usp=sharing) *linked*
 
 
 ## Projects
@@ -24,7 +22,7 @@ My recent experience has given me skills in the research process, software devel
 
 `Classify` (a Machine Learning image classification program written in RISC-V assembly)
 
-[`CNN Breast Density Classification`](https://github.com/froghop/2DBreastDensityConvNet)
+[`CNN Breast Density Classification`](https://github.com/froghop/2DBreastDensityConvNet) *linked*
 
 `Snake` (a playable Snake game written in the C programming language)
 

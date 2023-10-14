@@ -10,19 +10,44 @@ My recent experience has given me skills in machine learning, software developme
 
 `Undergraduate Researcher at UCSF Department of Radiology` *current role* 
 
+
+#### Publications
+
 [`Emphysema Quantification and Severity Classification with 3-Dimensional Averaging Kernel and Airways Removal`](https://doi.org/10.1101/2022.10.31.22281562) *linked*
 
 [`Elements of Success in NIH Grant Proposals`](http://discourseconventions.weebly.com/uploads/8/5/7/3/85737014/bondarenko_masha_validating_a_resource_for_the_specific_aims_section_in_nih_grant_proposals.pdf) *linked*
 
 [`Analyzing the Viability of Oncolytic Viruses for Treating Cancer`](https://drive.google.com/file/d/1vdvKwhtjsrpzdg94_CK4Hm9Etubb0wIc/view?usp=sharing) *linked*
 
+#### Abstracts
+`Clinical and Imaging Factors Associated with Growth of Subsolid Pulmonary Nodule on CT` [RSNA]
+
+`Modeling Risk of Progression to Lung-RADS4 from a Benign Lung Cancer Screening CT using Imaging and Clinical Data` [RSNA]
+
+`Radiomics Analysis for Predicting Progression of Part-Solid Nodules on CT` [RSNA]
+
+#### Presentations
+
+[`Advances in Artificial Intelligence & Novel Imaging Methods Conference`](https://intelligentimaging.ucsf.edu/index.php/events/advances-artificial-intelligence-novel-imaging-methods-conference-oct-4) [San Francisco, September 2023]
+
+`Radiological Society of North America Conference 2023` [Chicago, November 2023]
+
+[`ci2 Summer Intern Symposium`](https://intelligentimaging.ucsf.edu/news/interview-masha-bondarenko-2022-ucsf-ci2-summer-intern)
 
 ## Select Projects
 
 #### *Computer Science focused*
+`Emojify` (Keras LSTM sentiment classifier utilizing GloVe algorithm, word embeddings, and negative sampling to add representative emojis to plaintext)
+
 `Dropbox` (software written in Golang to securely, reliably, and confidentially exchange files robustly against adversarial attacks)
 
-`Analysis of Robustness Against Adversarial Attacks` (mathematical analysis on optimization)
+`Neural Machine Translation with Attention Model` (Tensorflow attention model with bidirectional LSTMs to translate human readable dates into machine readable dates)
+
+`Analysis of Robustness Against Adversarial Attacks` (mathematical analysis on optimization and robustness to noise and adversaries)
+
+`Trigger Word Detection` (attention model with GRUs to synthesize and process audio recordings and detect specific words in noisy audio)
+
+`Dinosaur Name Synthesization` (RNN built from scratch for character-level text generation for realistic dinorour names)
 
 `Spam VS Ham NLP Classification` (SVM model with NLP techniques)
 
@@ -35,8 +60,6 @@ My recent experience has given me skills in machine learning, software developme
 [`CNN Breast Density Classification`](https://github.com/froghop/2DBreastDensityConvNet) (ResNet model) *linked*
 
 `Snake` (a playable game written in C)
-
-`Analysis on Robust Classification Against Adversaries` (dual optimization, robustness to noise and adversaries)
 
 `Australia Weather Prediction Forecast`
 
@@ -65,7 +88,8 @@ My recent experience has given me skills in machine learning, software developme
 
 
 ## Miscellaneous
-`Academic Intern for CS 61A` (The Structure & Interpreation of Computer Programs)
+`Coursera Sequence Models Course Certification`[*certificate*](https://www.coursera.org/account/accomplishments/certificate/YMUFCUKBRAMH)
+`Academic Intern for CS 61A: The Structure & Interpreation of Computer Programs` (taught in two discussions for ~10 students weekly)
 
 ## Find Me
 [`LinkedIn`](https://www.linkedin.com/in/mashabondarenko/)  

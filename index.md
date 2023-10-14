@@ -89,6 +89,7 @@ My recent experience has given me skills in machine learning, software developme
 
 ## Miscellaneous
 `Coursera Sequence Models Course Certification`[*certificate*](https://www.coursera.org/account/accomplishments/certificate/YMUFCUKBRAMH)
+
 `Academic Intern for CS 61A: The Structure & Interpreation of Computer Programs` (taught in two discussions for ~10 students weekly)
 
 ## Find Me

@@ -1,5 +1,5 @@
 ## About
-Hello! I'm currently a fourth year Electrical Engineering & Computer Science student at UC Berkeley with interests in bioengineering. Work I love doing involves the intersection of engineering and medicine. 
+Hello! I'm currently a fourth year Electrical Engineering & Computer Science student at UC Berkeley. Work I love doing involves the intersection of engineering and medicine. 
 
 I currently work at UCSF in the Big Data in Radiology (BDRAD) lab where I'm involved in various projects and collaborations pertaining to the lungs. 
 
@@ -13,6 +13,10 @@ My recent experience has given me skills in machine learning, software developme
 
 #### Publications
 
+[`In-Context Learning of Intuitive Physics in Transformers`](https://drive.google.com/file/d/1RooGtC0Ve0vwEKlnn9MQ0O9WLS7Q2PU7/view?usp=drive_link) *linked*
+
+[`Radiomics Analysis for Predicting Growth of Subsolid Lung Nodules on CT]([https://www.medrxiv.org/content/10.1101/2023.12.05.23299456v1`](https://doi.org/10.1101/2023.12.05.23299456)) *linked*
+
 [`Emphysema Quantification and Severity Classification with 3-Dimensional Averaging Kernel and Airways Removal`](https://doi.org/10.1101/2022.10.31.22281562) *linked*
 
 [`Elements of Success in NIH Grant Proposals`](http://discourseconventions.weebly.com/uploads/8/5/7/3/85737014/bondarenko_masha_validating_a_resource_for_the_specific_aims_section_in_nih_grant_proposals.pdf) *linked*
@@ -20,17 +24,19 @@ My recent experience has given me skills in machine learning, software developme
 [`Analyzing the Viability of Oncolytic Viruses for Treating Cancer`](https://drive.google.com/file/d/1vdvKwhtjsrpzdg94_CK4Hm9Etubb0wIc/view?usp=sharing) *linked*
 
 #### Abstracts
-`Clinical and Imaging Factors Associated with Growth of Subsolid Pulmonary Nodule on CT` [RSNA]
+`Clinical and Imaging Factors Associated with Growth of Subsolid Pulmonary Nodule on CT` [RSNA](https://www.rsna.org/)
 
-`Modeling Risk of Progression to Lung-RADS4 from a Benign Lung Cancer Screening CT using Imaging and Clinical Data` [RSNA]
+`Modeling Risk of Progression to Lung-RADS4 from a Benign Lung Cancer Screening CT using Imaging and Clinical Data` [RSNA](https://www.rsna.org/)
 
-`Radiomics Analysis for Predicting Progression of Part-Solid Nodules on CT` [RSNA]
+`Radiomics Analysis for Predicting Progression of Part-Solid Nodules on CT` [RSNA](https://www.rsna.org/)
 
 #### Presentations
 
-[`Advances in Artificial Intelligence & Novel Imaging Methods Conference`](https://intelligentimaging.ucsf.edu/index.php/events/advances-artificial-intelligence-novel-imaging-methods-conference-oct-4) [San Francisco, September 2023]
+[`Radiological Society of North America Conference 2023`](https://radiology.ucsf.edu/ucsf-radiology-rsna#-) [Chicago, November 2023]
 
-`Radiological Society of North America Conference 2023` [Chicago, November 2023]
+[`UCSF Imaging Research Symposium`](https://radiology.ucsf.edu/research/meetings/imaging-research-symposium) [San Francisco, October 2023]
+
+[`Advances in Artificial Intelligence & Novel Imaging Methods Conference`](https://intelligentimaging.ucsf.edu/index.php/events/advances-artificial-intelligence-novel-imaging-methods-conference-oct-4) [San Francisco, September 2023]
 
 [`ci2 Summer Intern Symposium`](https://intelligentimaging.ucsf.edu/news/interview-masha-bondarenko-2022-ucsf-ci2-summer-intern)
 
@@ -76,13 +82,15 @@ My recent experience has given me skills in machine learning, software developme
 ## Leadership & Volunteering
 `American Physician Scientist Association at UC Berkeley` President, Professional Development Chair, Former Underclassman Representative
 
+`Zuckerberg San Francisco General Hospital` Medical Surgery Clinical Assistant Volunteer
+
 `Association of Women in EE&CS` Professional Development Committee, Mentor for Underclassmen
 
 `Society of Women Engineers` Overnight Host Program Volunteer
 
-`American Red Cross` Blood Donor Ambassador, Research & Data Entry Volunteer , VP @ DHS chapter
-
 `University Health Services` COVID-19 Emergency PCR Testing Lead
+
+`American Red Cross` Blood Donor Ambassador, Research & Data Entry Volunteer , VP @ DHS chapter
 
 `Open Heart Kitchen` Kitchen staff & server
 

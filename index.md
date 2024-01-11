@@ -15,7 +15,7 @@ My recent experience has given me skills in machine learning, software developme
 
 [`In-Context Learning of Intuitive Physics in Transformers`](https://drive.google.com/file/d/1RooGtC0Ve0vwEKlnn9MQ0O9WLS7Q2PU7/view?usp=drive_link) *linked*
 
-[`Radiomics Analysis for Predicting Growth of Subsolid Lung Nodules on CT]([https://www.medrxiv.org/content/10.1101/2023.12.05.23299456v1`](https://doi.org/10.1101/2023.12.05.23299456) *linked*
+[`Radiomics Analysis for Predicting Growth of Subsolid Lung Nodules on CT](https://doi.org/10.1101/2023.12.05.23299456) *linked*
 
 [`Emphysema Quantification and Severity Classification with 3-Dimensional Averaging Kernel and Airways Removal`](https://doi.org/10.1101/2022.10.31.22281562) *linked*
 
